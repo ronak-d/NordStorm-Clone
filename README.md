@@ -1,5 +1,5 @@
 # NordStorm-Clone
-As a part of Unit-3 Construct Week Project. We have cloned Nord-Storm Website.
+As a part of Unit-3 Construct Week Project. I have cloned Nord-Storm Website.
 
 # Demo Link : 
 
